@@ -22,8 +22,6 @@ Investigation of multiple failed login attempts against a Windows user account.
 ### [Investigation #003 - PowerShell Process Discovery](SOC%20Lab%20Investigation%203.pdf)
 Investigated a PowerShell Process Discovery alert, reviewed Event ID 4104, and analyzed surrounding activity to determine the alert was benign.
 
-### Investigation #004 – Suspicious Account Creation & Privilege Escalation
+### [Investigation #004 – Suspicious Account Creation & Privilege Escalation](./SOC%20Lab%20Investigation%204.pdf)
 
 Investigation of a newly created Windows user account that was added to the local Administrators group.
-
-[View Investigation #004](SOC%20Lab%20Investigation%204.pdf)
